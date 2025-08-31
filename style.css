@@ -32,7 +32,7 @@ body {
   max-width: 380px;    /* but never exceed 380px */
   transition: all 0.3s ease-in-out;
   min-height: 500px;
-  margin: 2% auto;     /* center horizontally */
+  margin-top: 2% auto;     /* center horizontally */
 }
 
 
