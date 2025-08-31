@@ -28,7 +28,7 @@ body {
   border-radius: 12px; /* Slightly smaller border radius */
   box-shadow: var(--card-shadow);
   overflow: hidden;
-  max-width: 300px; /* Significantly reduced card width */
+  max-width: 350px; /* Significantly reduced card width */
   width: 100%;
   transition: all 0.3s ease-in-out;
   min-height: 500px; 
